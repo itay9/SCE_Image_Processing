@@ -1,0 +1,7 @@
+Radius: 3, Num Of Points: 24
+Kernel: rbf, Gamma: 1, C: 0.1
+Accuracy: 68.57%
+          male    female
+------  ------  --------
+male        27        14
+female       8        21
