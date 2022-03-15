@@ -1,3 +1,3 @@
 # Authors:
-##	Itay Dali
-##	Shmilik Atias
+	**Itay Dali**
+	**Shmilik Atias**
