@@ -1,4 +1,6 @@
-
+Authors: 
+    Itay Dali
+    Shmulik Atias
 
 Script takes 2 arguments: source_folder and output_folder, and remove the yellow lines from an image.
 The image looks like notebook page where the yellow lines marking the rows in it.

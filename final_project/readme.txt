@@ -1,3 +1,6 @@
+Authors: 
+    Itay Dali
+    Shmulik Atias
 
 Dependencies:
 opencv-contrib-python==4.5.4.58

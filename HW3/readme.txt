@@ -1,4 +1,6 @@
-
+Authors: 
+    Itay Dali
+    Shmulik Atias
 
 Script takes 3 arguments: source of left image, source of right image and output_folder,
 and creates panoramic image from left and right given images.

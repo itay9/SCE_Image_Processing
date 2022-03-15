@@ -1,4 +1,7 @@
-
+Authors: 
+    Itay Dali
+    Shmulik Atias
+    
 Script takes 2 arguments: source_folder and output_folder, and locates the page from an image, straight it and save it to new image.
 The script simulates the CamScanner App. 
 Assumptions:
